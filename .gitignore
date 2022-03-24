@@ -1,6 +1,0 @@
-# To ignore files that could cause issues accross different workspaces
-touch .gitignore
-
-echo ".obsidian/cache
-.trash/
-.DS_Store" > gitignore
