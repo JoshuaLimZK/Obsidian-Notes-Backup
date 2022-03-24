@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry.md",
+            "file": "4.01 Speed of Reaction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry.md",
+                "file": "4.01 Speed of Reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,15 @@
   },
   "active": "aa96ef5e821b14e6",
   "lastOpenFiles": [
-    "Chemistry.md",
+    "4.01 Speed of Reaction.md",
+    "Chemistry/Home.md",
+    "().md",
+    "Physics/Home.md",
+    "History/Home.md",
     "Hub.md",
+    "Untitled 1.md",
     "README.md",
     "test.md",
-    "Chemistry/3.1 Kinetic Particle Theory.md",
-    "Home.md"
+    "Chemistry/3.1 Kinetic Particle Theory.md"
   ]
 }
