@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa96ef5e821b14e6",
+        "id": "de5f5201e32e2e2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.01 Speed of Reaction.md",
+            "file": "History/4.2 Germany's and Japan's defeat in WWII.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.01 Speed of Reaction.md",
+                "file": "History/4.2 Germany's and Japan's defeat in WWII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa96ef5e821b14e6",
+  "active": "de5f5201e32e2e2b",
   "lastOpenFiles": [
-    "4.01 Speed of Reaction.md",
-    "Chemistry/Home.md",
-    "().md",
-    "Physics/Home.md",
+    "History/4.2 Germany's and Japan's defeat in WWII.md",
+    "History/4.2 Germany's defeat in WWII.md",
     "History/Home.md",
+    "Chemistry/Home.md",
+    "Chemistry/4.01 Speed of Reaction.md",
+    "Homework Tracking.md",
+    "Physics/Home.md",
     "Hub.md",
-    "Untitled 1.md",
     "README.md",
-    "test.md",
-    "Chemistry/3.1 Kinetic Particle Theory.md"
+    "Untitled.md"
   ]
 }

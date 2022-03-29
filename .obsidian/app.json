@@ -4,5 +4,6 @@
   "foldHeading": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

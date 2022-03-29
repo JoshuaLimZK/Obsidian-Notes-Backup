@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 23,
   "theme": "obsidian",
-  "cssTheme": "Things"
+  "cssTheme": "Tokyo Night",
+  "translucency": false
 }
