@@ -1,4 +1,4 @@
 # Subjects
-- [[Chemistry/Home]]
-- [[Physics/Home]]
-- [[History/Home]]
+- [[Chemistry]]
+- [[Physics]]
+- [[History]]
