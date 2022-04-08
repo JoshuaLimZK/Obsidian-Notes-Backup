@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/4.2 Germany's and Japan's defeat in WWII.md",
+            "file": "1.1 Computer Architecture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/4.2 Germany's and Japan's defeat in WWII.md",
+                "file": "1.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "de5f5201e32e2e2b",
   "lastOpenFiles": [
-    "History/4.2 Germany's and Japan's defeat in WWII.md",
-    "History/History.md",
-    "Chemistry/Chemistry.md",
+    "1.1 Computer Architecture.md",
+    "Computing/1 How Do Computers Work?.md",
+    "Computing/Computing.md",
     "Hub.md",
-    "Homework Tracking.md",
+    "Physics/01 Physical Quantities, Units and Measurement.md",
     "Physics/Physics.md",
-    "Chemistry/4.01 Speed of Reaction.md",
-    "05 Stoichiometry and Mole Concept.md",
-    "History/4.2 Germany's defeat in WWII.md",
-    "README.md"
+    "Physics/18 D.C. Circuits.md",
+    "Physics/Planning.md",
+    "Homework Tracking.md",
+    "History/4.2 Germany's and Japan's defeat in WWII.md"
   ]
 }
